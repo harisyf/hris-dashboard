@@ -1,5 +1,5 @@
 # Human Resources Information System (HRIS) Dashboard
-A personal project to showcases a human resources information system (HRIS) dashboard built using Tableau. It provides insights into human resource metrics, helping HR professionals make informed decisions about talent management, workforce planning, and employee engagement. The dataset that I used for this project is [this dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) from Kaggle with a size of 1,470.
+A personal project to showcases a human resources information system (HRIS) dashboard built using Tableau. It provides insights into human resource metrics, helping HR professionals make informed decisions about talent management, workforce planning, and employee engagement. The dataset that I used for this project is [this dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) from Kaggle with a size of 1,470. Link to my dashboard on [Tableau Public](https://public.tableau.com/views/HRAnalytics_17053237748300/Overview?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Project Overview
 This dashboard offers a comprehensive view of HR attrition and performance data, including:
@@ -30,7 +30,7 @@ This dashboard utilizes the following data sources:
 * Tableau Desktop or Tableau Public.
 
 # Usage
-* Download the Tableau workbook.
+* Download the [Tableau workbook](https://public.tableau.com/views/HRAnalytics_17053237748300/Overview?:language=en-US&:display_count=n&:origin=viz_share_link).
 * Open the workbook in Tableau Desktop or Tableau Public.
 * Explore the various dashboards and worksheets within the workbook.
 * Use filters and dashboards to customize your view of the data.
